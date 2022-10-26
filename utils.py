@@ -11,7 +11,7 @@ SAMPLES = {
     "Streamlit Shorts: How to make a select box by Streamlit": "https://www.youtube.com/watch?v=8-GavXeFlEA"
     }
 
-MAX_VIDEO_LENGTH = 15*60
+MAX_VIDEO_LENGTH = 8*60
 
 
 def sample_to_url(option):
