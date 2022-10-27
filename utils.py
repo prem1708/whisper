@@ -4,7 +4,7 @@ import re
 from pytube import YouTube
 import streamlit as st
 import whisper
-import weget
+
 
 
 SAMPLES = {
