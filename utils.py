@@ -20,7 +20,7 @@ def sample_to_url(option):
 
 @st.cache(show_spinner=False)
 def load_whisper_model():
-    model = whisper.load_model('tiny', device='cpu')
+    model = whisper.load_model('small', device='cpu')
     return model
 
 
